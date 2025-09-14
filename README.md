@@ -69,4 +69,3 @@ Use a Different API: To use a different data source (e.g., Clearbit, Plaid), you
 Update the fetch_daily_stock_data function in main.py to make the correct API call.
 Modify the schema.sql file to match the new data structure.
 
-Update the LLM prompt in get_llm_insights to provide context for the new data.
